@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //Init clear button
+        //Init clear button...
         Button btClear = findViewById(R.id.button);
         btClear.setOnClickListener(new View.OnClickListener() {
             @Override
